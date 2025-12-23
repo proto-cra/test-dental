@@ -1,0 +1,30 @@
+[
+  {
+    "origin": "https://www.canada.ca/en.html",
+    "destination": "/test-dental/en.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes.html",
+    "destination": "/test-dental/en/services/taxes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/validation.html",
+    "destination": "/test-dental/en/revenue-agency/services/child-family-benefits/dental-benefit/validation.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/application-denied.html",
+    "destination": "/test-dental/en/revenue-agency/services/child-family-benefits/dental-benefit/application-denied.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/return-payment.html",
+    "destination": "/test-dental/en/revenue-agency/services/child-family-benefits/dental-benefit/return-payment.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/contact.html",
+    "destination": "/test-dental/en/revenue-agency/services/child-family-benefits/dental-benefit/contact.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/dental-benefit/statistics.html",
+    "destination": "/test-dental/en/revenue-agency/services/child-family-benefits/dental-benefit/statistics.html"
+  }
+]
